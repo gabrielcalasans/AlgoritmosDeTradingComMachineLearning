@@ -6,7 +6,7 @@ Nesse curso foram abordadas características das negociações de ativos buscand
 
 No módulo mais básico, o conteúdo exposto foi a aquisição de dados financeiros por meio do _Yahooo Finance_ e, além disso, tópicos básicos como o cálculo de retorno e volatilidade foram trabalhados, assim como o índice Sharpe.
 
-## Móddulo 2 - Análise Técnica
+## Módulo 2 - Análise Técnica
 
 Breve introdução a análise técnica foi feita, abordando a interpretação e construção do gráfico de **_candlesticks_** por meio do python, padrões básicos de análise gráfica e indicadores técnicos. Ainda sobre os indicadores, os que receberam maior destaque foram:
 - Médias móveis;
@@ -24,7 +24,7 @@ Itens como a criação dos sinais de decisão (compra, venda ou espera) foram de
 
 Por ultimo, o módulo encerra com o desenvolvimento de um algoritmo para realizar o **_backtesting_** dos scripts de negociação baseando-se no investimento hipotético de um valor x, sujeito às condições de variação do preço com determinado _take profit_ e _stop loss_. Para mais, a comparação entre o desempenho do algoritmo com diferentes ativos também foi realizada.
 
-## Módulo 4 - Trading com Algoritmos de Machine Learning 
+## Módulo 4 - Trading com Algoritmos de _Machine Learning_ 
 
 Em um primeiro momento, a definição de _Machine Learning (ML)_ foi apresentada, no qual foi feita a distinção entre os aprendizados supervisionados e não supervisionados, sempre os relacionando com sua aplicação dentro do mundo de finanças e também sua aplicação:
 - Supervisionado
